@@ -11,7 +11,7 @@ Este es un proyecto web simple que permite simular el juego del **Amigo Secreto*
 - ✅ Mostrar dinámicamente la lista en pantalla.
 - ✅ Sorteo aleatorio de un amigo secreto.
 - ✅ Limpieza automática de la lista después del sorteo.
-
+  
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -19,7 +19,7 @@ Este es un proyecto web simple que permite simular el juego del **Amigo Secreto*
 - HTML5
 - CSS3
 - JavaScript (DOM, eventos, arrays)
-- 
+  
 ---
 
 ## 🚀 Cómo usar
